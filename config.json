@@ -43,12 +43,7 @@
             "detail": "https://ikunzyapi.com",
             "is_adult": false
         },
-        "api_8": {
-            "name": "TV-wujinapi无尽",
-            "api": "https://api.wujinapi.cc/api.php/provide/vod",
-            "detail": "",
-            "is_adult": false
-        },
+       
         "api_9": {
             "name": "TV-丫丫点播",
             "api": "https://cj.yayazy.net/api.php/provide/vod",
@@ -58,7 +53,8 @@
         "api_10": {
             "name": "TV-光速资源",
             "api": "https://api.guangsuapi.com/api.php/provide/vod",
-            "detail": "https://api.guangsuapi.com"
+            "detail": "https://api.guangsuapi.com",            
+"is_adult": false
         },
         "api_11": {
             "name": "TV-卧龙点播",
