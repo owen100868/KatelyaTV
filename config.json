@@ -1,25 +1,25 @@
 {  
 "cache_time": 7200,  
 "api_site": {    
-"api_1": {      
+"1080zyku": {      
 "api": "https://api.1080zyku.com/inc/api_mac10.php",      
 "name": "TV-1080资源",      
 "detail": "https://api.1080zyku.com",      
 "is_adult": false    
 },    
-"api_2": {      
+"155api": {      
 "api": "https://155api.com/api.php/provide/vod",      
 "name": "AV-155资源",      
 "detail": "https://155api.com",      
 "is_adult": false    
 },
- "api_29": {      
+ "dyttzyapi": {      
 "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",      
 "name": "TV-电影天堂资源",      
 "detail": "http://caiji.dyttzyapi.com",      
 "is_adult": false    
 },    
-"api_30": {      
+"bwzyz": {      
 "api": "https://api.bwzyz.com/api.php/provide/vod",      
 "name": "AV-百万资源",      
 "detail": "https://api.bwzyz.com",      
